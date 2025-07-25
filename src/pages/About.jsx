@@ -14,7 +14,7 @@ export default function About() {
           <p>
             Our mission is to enliven your road trip with the perfect travel van
             rental. Our vans are recertified before each trip to ensure your
-            travel plans can go off without a hitch. (Hitch costs extra 😉)
+            travel plans can go off without a hitch. (Hitch costs extra's 😉)
           </p>
           <p>
             Our team is full of vanlife enthusiasts who know firsthand the magic
